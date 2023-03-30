@@ -40,11 +40,11 @@
 - Does the project utilize gaming elements? Does the project involve winning or losing?
   - No, the project does not utilize gaming elements.
 - What are the strategies for expanding the narrative?
-  - 
+  - Expanding the narrative of this script could involve different techniques to give depth and detail to the story. 
 - Are negative capability12 and migratory cues13 included?
   - No, we did not use negative capability or migratory cues.
 - Is it possible to identify intermedial14 texts in the story?
-  - 
+  - No, there are no intermedial texts in this story. The story is a written narrative with dialogues between the characters and descriptions of the scenes.
 
 ### Worldbuilding ###
 - When the story occurs?
