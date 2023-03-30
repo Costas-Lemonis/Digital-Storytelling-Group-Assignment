@@ -122,36 +122,55 @@
 
 ### Audience and market ###
 - What is the target audience of the project? Who is the intended VUP?
+  - Our target audience is university students and mainly Mr.Merkouris. 
 - What kind of “viewers” (real-time, reflective, and navigational21) does the project attract?
-- What kind of entertainment
-- does the target audience enjoy?
+  - We believe our work will attract university students and Professors.
+- What kind of entertainment does the target audience enjoy?
+  - A comedy situation that was also made popular through social media in the form of a short movie
 - What kind of technology/devices are people in this group involved with?
+  - Mainly mobile phones and laptops or stationary computers
 - Why does this project appeal to them?
+  - Everyone knows the story but no one has seen a comedy twist.
 - Do other projects like this exist? Do they succeed in achieving their purpose?
+  - Probably not and hopefully not. Our script is unique but the core is the same. 
 - What is the project’s business model?
+  - There was no business model.
 - Revenue-wise, was the project successful? Why?
-
+  - This project was made as a university project, so no revenue was made.
 ### Engagement ###
 - Through what point of view (PoV) does the VUP experience this world: first-person, secondperson, third-person, or a mixture of them?
+  - Third person experience.
 - What role does the VUP play in this project?
+  - They are just an observer, watching the world being built around the main characters.
 - How the project keeps the VUP engaged?
+  - Music, a realistic approach to the concept, the jokes of the characters.
 - What are the mechanisms of interaction in this project?
+  - The VUP cannot interact with the project more than watching it.
 - Is there also participation involved in the project? If so, how can the VUP participate in the open system?
+  - The VUP has no means of interaction with the system.
 - Does the project work as cultural attractor/activator22?
+  - No ,the project doesn’t work as a cultural attractor
 - How does the VUP affect the outcome? What do they add to the storyworld?
+  - The do not affect the outcome whatsoever.
 - Are there UGC related to the story (parodies, recaps, mashups, fan communities, etc.)?
+  - The parody is based on a the real story. Probably they have been plenty parodies but ours is an original one.
 - Does the project offer the VUP the possibility of immersion into the storyworld?
+  - Due to the lack of interaction with the project, immersion is quite unlikely.
 - Does the project offer the VUP the possibility to take away elements of the story and incorporate them into everyday life?
+  - The meaning of the story and the feelings the VUP felt cannot be incorporated into everyday life. Simply the love between the two characters is unimaginable.
 - Is there an important goal that the VUP is trying to accomplish in the project?
+  - The meaning of the story and the feelings the VUP felt cannot be incorporated into everyday life. Simply the love between the two characters is unimaginable.
 - What will make the VUP want to spend time accomplishing this goal?
+  - The main motivation of the VUP to accomplish our goal is through the anticipation. Meaning, he wants to sit through our short film all the way in order to experience the ending.
 - What adds tension to the experience? Are there any ticking clocks?
+  - The consistently good or bad jokes and the plot.
 - Is there a system of rewards and penalties?
-
+  - No, there are no such systems.
 ### Structure ###
 - When did the transmediation begin? Is it a pro-active or retroactive TS project?
-  - 
+  - If we consider the many adaptations and retellings of Romeo and Juliet over the years, the transmediation of the story began as soon as it was written by William Shakespeare in the late 16th century. Each new adaptation or retelling can be seen as a proactive transmediation project, seeking to translate the story into a different medium or audience.
 - Is it possible to identify any consequences for the project caused by the fact that this is either a pro-active or a retroactive transmedia story?
-  - 
+  - We do not believe that there was any real, damaging consequence. In fact, it helped us organise our timeline so there was enough time for both media.
 - Is this project closer to a transmedia franchise, a portmanteau transmedia story, or a complex transmedia experience?
   - The project described in the given dialogues is closer to a portmanteau transmedia story. The reason being that it only has a limited number of scenes and characters, and there is no significant world-building, which is necessary for a complex transmedia experience.
 - Can each extension work as an independent entry point for the story?
@@ -161,15 +180,16 @@
 - How is the project structured? What are the major units of organization?
   - The project was made by 6 university students.
 - How could a map23 of the storyworld be presented?
-  -
+  - Because the project doesn’t support interaction with the VUPs, one way to present a story-world map is through Youtube.
 
 ### Aesthetics ###
 - What kinds of visuals are being used (animation, video, graphics, a mix) in the project?
-  - For the primary movie, we use video footage taken by a camera.
+  - For the primary movie, we use video footage taken by a digital mirrorless camera.
 - Is the overall look realistic or a fantasy environment?
-  - It’s meant to look realistic.
+  - It’s meant to look realistic to a certain point.
 - Is it possible to identify specific design styles in the project?
+  - Nope probably only the makeup and the costumes.
 - How does audio work in this project? Is there ambient sound (rain, wind, traffic noises, etc.), sound effects, music, and so forth?
-  -
+  - In filming the movie, we encountered the problem of wind and noise in some of the scenes. We used a mixture of natural sounds and audio effects, all to enhance the immersion of the viewing experience. Some of the natural ambient sounds we used include the wind. We may  have some audio effects and music .Mainly we will try to program any problems with the background sound and noise .Also we will try to make our voices sound better through programs.
 
 
