@@ -7,14 +7,11 @@
 
 # Introduction
 ### Premise and purpose ###
-- What is the project about?
-  - dsvfwdwewe   
+- What is the project about? 
 - What is the project’s core?
-  - 
 - Is it a fictional, a non-fiction or a mixed project?
-  -
 - What is its fundamental purpose? Is it to entertain, to teach or to in form? Is it to market a product?
-  - 
+
 ### Narrative ###
 - What are the narrative elements (such as plot, theme, characters, etc.) of the project? 
 - What would be the summary of its storyline? 
@@ -27,40 +24,77 @@
 
 ### Worldbuilding ###
 - When the story occurs?
+  - In present time
 - Which is the central world where the project is set?
+  - In Syros, Ermoupoli
 - Is it a fictional world, the real world or a mixture of both?
+  - The world is realistic. The plot is also realistic
 - How it is presented geographically?
+  - We filmed everything in Syros. In a house and outside
 - How the world looks?
+  - Like a house of  a  university student in Ermoupoli
 - What challenges, dangers, or delights are inherent to this world?
+  - The main dangers are gravity ,poisonous things
 - Is the storyworld big enough to support expansions? 
+  - No its not big enough
 
 ### Characters ###
 - Who are the primary and secondary characters of the story?
+  - Primary Characters:
+    - Romeo  and Juliet
+      - Romeo is a young, passionate and impulsive man from a noble family in Verona. He is deeply in love with love and falls quickly for Juliet, willing to do anything to be with her. Romeo is also prone to mood swings and is easily influenced by his emotions, which leads to impulsive decisions and actions.
+      - Juliet is a beautiful and intelligent young woman from the Capulet family. She is also passionate and headstrong, but more level-headed than Romeo. She is deeply in love with Romeo and is willing to defy her family and society's expectations to be with him. Juliet is a complex character who struggles with conflicting loyalties to her family and her love for Romeo.
+
+  - Secondary Characters:
+    - Mercutio, Friar Lawrence and Juliet’s Father.
+      - Mercutio: Romeo's best friend, who is witty, loyal, and fiercely independent.
+      - Friar Lawrence: A wise and compassionate priest who tries to help Romeo and Juliet navigate their difficult situation.
+      - Lord Capulet: Juliet's father, who is initially protective of his daughter but becomes angry and vengeful when she refuses to marry the man he has chosen for her.
+ 
 - Does the project have any spin-offs15? If so, who are the spin-offs’ protagonists?
+  - When Juliet has a flashback which is meant to put the listener to our characters place, passing her emotions and thoughts to the listener.
 - Can the storyworld be considered a primary character of its own?
+  - No, the whole world is surrounded by The love of Romeo and Juliet
 - Can the audience be considered a character as well?
+  - Its not about the people, its about Romeo and Juliet. Maybe only when Juliet has a flashback
 - Are there non-player characters16 (NPCs) in this project? If so, who are they and what kind of role do they play (allies, adversaries, helper figures, etc.)?
+  - Since it’s a real life movie there are no NPCs
 
 ### Extensions ###
 - How many extensions does the project have?
+  - The main project is real life film and we do not plan to have an extension(Hopefully if we pass the course).If there is a bonus deliverable maybe we can bring an extension
 - Are the extensions adaptations (the intersemiotic translation from one system to another) or expansions of the narrative through various media17?
+  - NO
 - Is each extension canonical18? Does it enrich the story?
+  - NO
 - Does each extension maintain the original characteristics of the world?
+  - NO
 - Does each extension answer questions left previously unanswered?
+  - NO
 - Does each extension raise new questions?
+  - NO
 - Do the extensions open up new possibilities for additional expansion?
+  - NO
 - Do the extensions have the ability to spread the content and also to provide the possibility to explore the narrative in-depth?
-
+  - NO 
 
 ### Media platforms and genres ###
 - What kind of media platforms (film, book, comics, games, and so forth) are involved in the project?
+  - Short live Romance and Comedy film and a flashback
 - Which devices (computer, game console, tablet, mobile phone, etc.) are required by the project?
+  - Camera, Smartphones, Laptops , Speakers, good lightning, anything with access to Youtube, Spotify
 - How each platform is participating and contributing to the whole project? What are their functions in the project?
+  - The way we are distributing our content, it allows for a wider audience to have access to our project, making it a lot easier for them to share our work
 - What are the distinctive characteristics of each media platform?
+  - There are no distinctions between the streaming platforms other than their ease to distribute it
 - Identify problems that are specific of each medium.
+  - The main medium (short film) was a lot harder to create due to the limitations of our location, budget, equipment and the lack of knowledge with filming and acting
 - Is each medium really relevant to the project?
+  - The movie is relevant to the project, because it develops the story prompt
 - What is the roll-out strategy to release the platforms?
+  - The Roll-out strategy is through social media sharing
 - Which genres (action, adventure, detective, science fiction, fantasy, and so forth) are present in the project?
+  - The main genre is Drama, Comedy , Romance
 
 ### Audience and market ###
 - What is the target audience of the project? Who is the intended VUP?
