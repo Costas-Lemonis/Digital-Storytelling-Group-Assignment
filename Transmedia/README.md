@@ -8,19 +8,43 @@
 # Introduction
 ### Premise and purpose ###
 - What is the project about? 
+  - The premise of the script is a modern retelling of William Shakespeare's classic tragedy, "Romeo and Juliet". The story follows the familiar plotline of two young lovers from rival families who fall in love but are ultimately doomed by the feud between their families
+  - The purpose of the script is to entertain the audience with a witty and modern take on the classic love story. The script utilizes transmedia storytelling techniques by presenting the story across different media platforms, including written dialogue and descriptive narration. The story is presented through dialogue between characters, which helps to develop their personalities and relationships, and through descriptive narration, which helps to set the scene and provide context. The script also incorporates humor and pop culture references to engage the audience and update the story for a contemporary audience
 - What is the project’s core?
+  - The project is a script or dialogue about Romeo and Juliet's love story. It shows the different scenes where Romeo's love for Rosaline is discussed, his encounter with Juliet at the party, their conversation at the balcony, and their wedding
 - Is it a fictional, a non-fiction or a mixed project?
+  - It’s a mixed project, it’s fundamentally inspired and based on everyday people and their struggles
 - What is its fundamental purpose? Is it to entertain, to teach or to in form? Is it to market a product?
+  - It’s a mixed project, it’s fundamentally inspired and based on everyday people and their struggles
 
 ### Narrative ###
 - What are the narrative elements (such as plot, theme, characters, etc.) of the project? 
+  - Characters:
+    - Narrator, Romeo, Mercutio, Juliet, Friar Lawrence, Juliet's Father
+  - Dialogue:
+    - The script contains a lot of dialogue between the characters, which helps to develop their personalities and the plot. The dialogue includes discussions of love and relationships, as well as humorous banter and jokes.
+  - Setting:
+    - The setting of the script is in Ermoupolis, the capital of Cyclades, and the party that Romeo and Mercutio attend. There is also a balcony scene where Romeo and Juliet declare their love for each other.
+  - Plot:
+    - The plot of the script centers around Romeo's love for Rosaline and his eventual meeting and falling in love with Juliet, despite their families being enemies. The plot also includes Friar Lawrence's involvement in their plan to elope and get married. The script also has a comedic tone, with Mercutio's jokes and Romeo's attempts at romanticism being played for laughs. 
 - What would be the summary of its storyline? 
+  - The script is a modern retelling of William Shakespeare's play, Romeo and Juliet. The story follows Romeo, a lovesick teenager who is infatuated with Rosaline but eventually falls in love with Juliet, the daughter of his family's enemy, the Capulets. Romeo's best friend, Mercutio, tries to help him forget about Rosaline and find someone else at a party, where he meets Juliet. Romeo and Juliet continue their romance in secret, despite the feud between their families. They eventually decide to get married with the help of Friar Lawrence, who hopes to reconcile the two families. The script includes several humorous and modern dialogues between the characters
 - What is the timeframe of the story?
+  - The script uses a modernized version of the language and there are references to TV shows such as Attack on Titan, which suggests a contemporary setting. However, the story is loosely based on the Shakespearean play "Romeo and Juliet", which is set in the 16th century in Verona, Italy. Therefore, it is possible that the story could be set in a modern-day Verona or a fictional location that resembles the original setting of the play
 - What are the major events or challenges offered by the narrative?
+  - The narrative of the given script presents several major events and challenges.
+    - In Scene 1, Romeo is introduced as a lovesick teenager who cannot stop thinking about Rosaline, who has vowed to remain chaste. This sets up the central conflict of the play, which is Romeo and Juliet's forbidden love due to their families' feud. Mercutio tries to help Romeo move on from his infatuation with Rosaline, but Romeo remains steadfast in his love for her.
+    - In Scene 2, Romeo and Mercutio attend a party where Romeo first lays eyes on Juliet. He is immediately smitten by her and tries to impress her with his poetry. Juliet is intrigued by Romeo's charm and agrees to let him buy her a drink, but she has to leave early.
+    - In Scene 3, Romeo sneaks into Juliet's balcony and professes his love for her. Juliet expresses her concern that their families are enemies and that their love is forbidden. However, Romeo convinces her that love knows no bounds and proposes that they elope to Las Vegas.
+    - In Scene 4, Romeo and Juliet get married with the help of Friar Lawrence. However, the challenge of their families' feud remains. The script foreshadows the conflict to come with Juliet's warning to Romeo about leaving the toilet seat up, implying that she will not tolerate any missteps in their marriage. 
 - Does the project utilize gaming elements? Does the project involve winning or losing?
+  - No, the project does not utilize gaming elements.
 - What are the strategies for expanding the narrative?
+  - 
 - Are negative capability12 and migratory cues13 included?
+  - No, we did not use negative capability or migratory cues.
 - Is it possible to identify intermedial14 texts in the story?
+  - 
 
 ### Worldbuilding ###
 - When the story occurs?
