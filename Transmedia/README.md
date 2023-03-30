@@ -147,21 +147,29 @@
 - What adds tension to the experience? Are there any ticking clocks?
 - Is there a system of rewards and penalties?
 
-
 ### Structure ###
 - When did the transmediation begin? Is it a pro-active or retroactive TS project?
+  - 
 - Is it possible to identify any consequences for the project caused by the fact that this is either a pro-active or a retroactive transmedia story?
+  - 
 - Is this project closer to a transmedia franchise, a portmanteau transmedia story, or a complex transmedia experience?
+  - The project described in the given dialogues is closer to a portmanteau transmedia story. The reason being that it only has a limited number of scenes and characters, and there is no significant world-building, which is necessary for a complex transmedia experience
 - Can each extension work as an independent entry point for the story?
+  - NO
 - What are/were possible endpoints of the project?
+  - We believe watching a movie from start to finish  is the best
 - How is the project structured? What are the major units of organization?
+  - The project was made by 6 university students
 - How could a map23 of the storyworld be presented?
+  -
 
 ### Aesthetics ###
 - What kinds of visuals are being used (animation, video, graphics, a mix) in the project?
+  - 
 - Is the overall look realistic or a fantasy environment?
+  - 
 - Is it possible to identify specific design styles in the project?
 - How does audio work in this project? Is there ambient sound (rain, wind, traffic noises, etc.), sound effects, music, and so forth?
-
+  -
 
 
